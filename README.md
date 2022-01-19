@@ -1,8 +1,19 @@
-### Hi there 👋   
+<div align=center>
 
- - 💻   **I'm a iOS Develover**    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Changhyun-song)](https://hits.seeyoufarm.com)
 
- - 🇰🇷  **I'm working in South Korea**
+</div>
+ 
+ - 💻   **I'm a Medical AI Engineer**    
+
+ - 🇰🇷  **I'm working in I-RAIL LAb in Seoul National University, South Korea**
+
+### Interest
+- Machine Learning, Deep Learning
+- Medical AI
+- Computer Vision in Medical field
+- Generative adversarial networks (GANs) in Medical field
+- Adversarial Attack & Defense in Medical field
 
 ### How to reach me? 🤔
 
