@@ -21,7 +21,11 @@
 
 - 📒  **Changhyun's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://Changhyun-song.githubblog.io/)](https://Changhyun-song.github.io/)   
 
-- 📕  **Changhyun's instagram ...** [![Instagram Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+- 📕  **Changhyun's instagram ...** </a> <a href="https://instagram.com/fivepxint">
+<img
+src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changhyun-song&show_icons=true&theme=cobalt)
 
