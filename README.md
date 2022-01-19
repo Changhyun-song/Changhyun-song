@@ -21,7 +21,7 @@
 
 - 📒  **Changhyun's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://Changhyun-song.githubblog.io/)](https://Changhyun-song.github.io/)   
 
-- 📕  **Changhyun's instagram ...** </a> <a href="https://instagram.com/fivepxint">
+- 📕  **Changhyun's instagram ...** </a> <a href="https://www.instagram.com/s___c__h/">
 <img
 src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/s___c__h/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
