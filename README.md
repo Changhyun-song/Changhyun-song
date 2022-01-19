@@ -19,6 +19,6 @@
 
 - 📮  **Fomagran's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zzxx9775@gmail.com)](mailto:zzxx9775@gmail.com)
 
-- 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://www.Changhyun-song.githubblog.io/)](https://www.Changhyun-song.githubblog.io/)   
+- 📒  **Fomagran's blog ...** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://Changhyun-song.githubblog.io/)](https://Changhyun-song.github.io/)   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changhyun-song&show_icons=true&theme=cobalt)   
