@@ -1,6 +1,6 @@
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%Changhyun-song)](https://hits.seeyoufarm.com)
+[![Hits]([![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChanghyun-song%2Fhit-counter&count_bg=%233D56C8&title_bg=%239A3D3D&icon=&icon_color=%23762222&title=hits&edge_flat=false)](https://hits.seeyoufarm.com))
 
 </div>
  
